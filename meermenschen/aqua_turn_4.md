@@ -5,11 +5,13 @@
 - Coasts on the horizon!  
 - But our second boat didn't leave!  
 Let's see, looking at the previous turn's orders I forgot to make the captain enter the boat! Classic mistake! We've lost a week of exploration and 110 silvers of investment.  
-- Apart from that everything is going well.  
+- Apart from that everything is going well.
+- 
+## Exploration
 **We found a new island!**  
 Let's take advantage of having 2 entertainers on board to save time: let's make one of them **swim** to the plain of Gogan Ror. Why the plain: because it might be inhabited and we want to meet people.  
 The boat will continue its exploration in coastal mode, but let's not forget to give 10 silvers to the swimmer/ambassador!
-## Swimming
+### Swimming
 A unique powerful ability. An aquarian can leave a coastal ship and move to an adjacent land region. The same rules as land movement apply. For more details, consult the wiki.
 https://wiki.eressea.de/Schiffsreise/en#Anschwimmen
 *However, it's impossible to go from land to water*
