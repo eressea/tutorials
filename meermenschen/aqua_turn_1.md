@@ -10,9 +10,12 @@ With our recruitments, the max trade will decrease from next week in this region
 The horses will be useful for trade, transport and island exploration.  
 The 2 nearby regions are swamps, it's not great but could be worse. We'll need to settle there in the future at least for the first trade.
 
+.<img width="188" height="157" alt="map1" src="https://github.com/user-attachments/assets/c95d028b-9b3d-4c37-832a-7f42faa47afa" />
+
+
 ## Recruitment
 - Recruit our 5 mages (COMBAT status Defensive)
-- Recruit 1 unit with perception, who will learn perception EVERY turn.
+- Recruit 1 unit with perception, who will learn perception EVERY turn
 - Recruit our Shipcraft (more is useless at the start)
 - Recruit our 2nd captain
 - Recruit our entertainers (COMBAT status Aggressive, they must protect the mages)
