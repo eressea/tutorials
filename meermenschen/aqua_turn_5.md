@@ -1,12 +1,16 @@
 # Turn 5 (26-29/10)
 --------
-*Diplomatic messages are grouped in communication*
+*Diplomatic messages are in communication*
 
 No visits from potential neighbors.  
 **Discovery of close neighbors!**  
 **Meeting with a tribe from the new island!**  
 
+<img width="221" height="188" alt="map5" src="https://github.com/user-attachments/assets/d8ffb1f4-c4d9-4a93-be73-d6540f8c5827" />
+
+
 ## Vesolsinmul
+<img width="315" height="275" alt="t5south" src="https://github.com/user-attachments/assets/7f81c2fd-cbf4-4dc1-b2a5-19798c99c0f5" />
 
 The boat that left west directly landed on the plain of Vesolsinmul. This is the starting region of the Halbe Linge, a halfling tribe.  
 This race is a real money-making machine. It would be good to befriend them otherwise we're going to be in competition.  
@@ -19,6 +23,7 @@ Since we arrived from the southeast, we must leave either by the southwest or by
 The southwest being land, we leave by the east.  
 
 ## Gogan Ror
+<img width="225" height="389" alt="t5north" src="https://github.com/user-attachments/assets/2f262062-0b25-4297-b6f5-ddf3b3e1dc30" />
 
 Our swimmer meets the Anbeter des Großen Baums, a human tribe. There is 1 castle at 10 (humans' basic allocation), and 2 potions.  
 It's a bit early for potion making so these must be "pot of toadslime" or potions given by another tribe.  
