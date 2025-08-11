@@ -22,7 +22,6 @@ An entertainer accompanies him. He enters the boat and gives control to the capt
 
 ## Magellan : to do for aquarian
 How to configure magellan to see all ships in a region : In EXTRA/Options/Overview  
-
 <img width="251" height="164" alt="image" src="https://github.com/user-attachments/assets/b348b366-b9b2-4a6d-b43d-27a2642de869" />  
 
 Now all ships can be seen easily  
