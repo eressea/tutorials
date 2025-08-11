@@ -1,5 +1,4 @@
 # Aquarian Tutorial
-===================
 
 ## Explanation of Choices
 ----------------------
@@ -27,4 +26,5 @@ Here I will present the development of an Aquarian faction oriented on sailing, 
 The idea will be to quickly create an economy thanks to entertainment, to train mages who will also contribute to the economy but also to defense, and to send the maximum number of ships towards the unknown.
 This is a very risky starting bet as it will depend on your neighbors and their ability to project into the future and know how to trust.
 But at least it will allow you to have fun and meet many players!
+
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of sailing.
