@@ -21,13 +21,12 @@ The 2 nearby regions are swamps, it's not great but could be worse. We'll need t
 - Send the first boat away. (COMBAT NOT)
 
 ## First Turn Specifics:
-Name (or renumber) your Faction. This is important especially for your neighbors. An unnamed faction is quickly considered suspicious or unfriendly. How do you address the player of the "Faction uv9t" tribe?
-Name all your units, or even describe them.
+Name (or renumber) your Faction. This is important especially for your neighbors. An unnamed faction is quickly considered suspicious or unfriendly. How do you address the player of the "Faction uv9t" tribe?  
+Name all your units, or even describe them.  
 Name your buildings, here the boat, it's more pleasant!
 
 ## Warning!
-The first unit is in the boat. Any unit recruited by it will be in the boat. So all units recruited this turn, except the assistant pilot must leave the boat!
-Otherwise your boat will be "overloaded" and won't be able to sail. You must also give all equipment or the boat will be overloaded.
+The first unit is in the boat. Any unit recruited by it will be in the boat. So all units recruited this turn, except the assistant pilot must leave the boat! Otherwise your boat will be "overloaded" and won't be able to sail. You must also give all equipment or the boat will be overloaded.
 
 Recruit the 5 mages even if it's an investment, because each mage costs 80+100+10=190 silvers. Each level 1 mage can cast a spell to earn 50 silvers. So if all goes well a mage pays for itself very quickly. A mage can have failures but the risk is worth it, especially since the entertainers will ensure survival in case of problems.
 
@@ -37,11 +36,11 @@ Only one Shipcrafter recruited because you can't enter an unbuilt boat. So build
 
 It's better to send a boat with 2 units: 1 captain and one entertainer. As an Aquarian if you don't make long orders you can Work at sea, so cost nothing. However upon landing you can bring back money (except guarded areas). You can also swim to the coast for first contact.
 
-Don't forget to give money to the boat captain! Here I give a lot (everything that's left).
+Don't forget to give money to the boat captain! Here I give a lot (everything that's left).  
 I also create a special group for navigators so they won't be starved by feeding foreign passengers.
 
 ## Navigation Technique and Choices:
-Coastal sailing or open sea direction. This is a choice to make according to the apparent configuration of the island.
-Here we are at the end of an island. We can easily coast to explore the island and meet its inhabitants. On the other hand, coastal sailing is long and tedious, and allows discovering fewer areas.
-So I would opt for a first open sea departure and coastal sailing with the second boat.
+Coastal sailing or open sea direction. This is a choice to make according to the apparent configuration of the island.  
+Here we are at the end of an island. We can easily coast to explore the island and meet its inhabitants. On the other hand, coastal sailing is long and tedious, and allows discovering fewer areas.  
+So I would opt for a first open sea departure and coastal sailing with the second boat.  
 A boat cannot go directly from mainland to mainland. So to minimize risks during coastal sailing, go offshore even if it's a bit longer
