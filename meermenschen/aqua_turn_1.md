@@ -3,22 +3,22 @@
 ## Location Discovery:
 Starting on a wooded plain, surrounded by 2 swamps and the ocean.  
 Resources: 500 wood, 100 shrubs, 51 horses, 4004 peasants.  
-General starting allocation: 2500 silvers, 4 stones, 10 wood.
-Aquarian starting allocation: 1 boat, 1 captain.
-Classic start, but with lots of horses (that's very good).
-With our recruitments, the max trade will decrease from next week in this region.
-The horses will be useful for trade, transport and island exploration.
+General starting allocation: 2500 silvers, 4 stones, 10 wood.  
+Aquarian starting allocation: 1 boat, 1 captain.  
+Classic start, but with lots of horses (that's very good).  
+With our recruitments, the max trade will decrease from next week in this region.  
+The horses will be useful for trade, transport and island exploration.  
 The 2 nearby regions are swamps, it's not great but could be worse. We'll need to settle there in the future at least for the first trade.
 
 ## Recruitment
-Recruit our 5 mages (COMBAT status Defensive)
-Recruit 1 unit with perception, who will learn perception EVERY turn.
-Recruit our Shipcraft (more is useless at the start)
-Recruit our 2nd captain
-Recruit our entertainers (COMBAT status Aggressive, they must protect the mages)
-Recruit our assistant pilot (entertain)
-Recruit our assistant for the future pilot (entertain) (COMBAT NOT)
-Send the first boat away. (COMBAT NOT)
+- Recruit our 5 mages (COMBAT status Defensive)
+- Recruit 1 unit with perception, who will learn perception EVERY turn.
+- Recruit our Shipcraft (more is useless at the start)
+- Recruit our 2nd captain
+- Recruit our entertainers (COMBAT status Aggressive, they must protect the mages)
+- Recruit our assistant pilot (entertain)
+- Recruit our assistant for the future pilot (entertain) (COMBAT NOT)
+- Send the first boat away. (COMBAT NOT)
 
 ## First Turn Specifics:
 Name (or renumber) your Faction. This is important especially for your neighbors. An unnamed faction is quickly considered suspicious or unfriendly. How do you address the player of the "Faction uv9t" tribe?
