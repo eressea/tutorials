@@ -778,14 +778,8 @@ Love and Respect
 
 ---
 
-### Message 1 - Réponse d'Odins Hammer avec carte
-
-**De :** Odin, König ohne Berg (Odins Hammer)  
-**À :** Peuple des Baba O Rum  
-**Objet :** Réponse détaillée + Carte de l'île jointe
-
----
-
+###  Response from Odins Hammer with a map
+```
 Bonjour, chers amis mouillés !
 
 > Salutations Peuple du marteau d'Odin, roi sous la montagne !  
@@ -838,7 +832,7 @@ Les contacts diplomatiques entre nos deux nations étaient très limités, nous 
 ---
 
 #### Complément en allemand
-
+```
 Das war sehr schwierig, und ich hoffe, es ist zumindest verständlich :-)
 
 Wir übrigen Völker auf der Insel haben uns auf eine gemeinsame Verteidigung geeinigt, sind aber sehr unvorbereitet von den Attacken überrascht worden. Ich werde mich mit meinem Volk darauf konzentrieren, meinen freundlich gesinnten Nachbarn mit den Talenten der Zwerge zu helfen. Meine Heimat ist wahrscheinlich verloren, der Feind steht direkt nebenan, und ich habe den Rückzug nach Westen angeordnet. Wenn ich einen Zwerg von der Insel fort schicken könnte, und mein Überleben auch im Fall einer totalen militärischen Niederlage sichern könnte, wäre ich sehr dankbar. Ist euer Schiff noch in der Nähe von **Gogan Ror**, oder seid ihr nach Norden weiter gesegelt, wo der Dämon lebt?
@@ -846,19 +840,16 @@ Wir übrigen Völker auf der Insel haben uns auf eine gemeinsame Verteidigung ge
 Eine Karte, soweit uns bekannt, liegt bei.
 
 **Odin, König ohne Berg**
+```
 
----
 
 ### Message 2 - Réponse aux Odins Hammer
-
-**De :** Baldo, Capitaine du P'tit Punch (Baba O Rum)  
-**À :** Odin, König ohne Berg  
-**Objet :** Proposition de point de récupération
-
 ---
+
 
 #### Version française
 
+---
 Salutations Peuple du marteau d'Odin, roi sous la montagne !
 
 *(Votre français est très compréhensible, merci !)*
@@ -870,7 +861,6 @@ Savez-vous si le glacier est gardé par une tribu ?
 Je peux être sur **Gogan Ror** en 2 tours mais cela me paraît plus risqué.
 
 **Amitié et respect !**
-
 ---
 
 #### Version anglaise
