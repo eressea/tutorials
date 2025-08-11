@@ -20,9 +20,9 @@ An entertainer accompanies him. He enters the boat and gives control to the capt
 - Everyone who can brings back money.  
 - The mage who reached level 2 gained 2 Aura points, so he can cast a spell at level 2. Which we do to earn 100 silvers!
 
-## Magellan : a base for aquarian
+## Magellan : to do for aquarian
 How to configure magellan to see all ships in a region : In EXTRA/Options/Overview  
-<img width="504" height="328" alt="image" src="https://github.com/user-attachments/assets/b348b366-b9b2-4a6d-b43d-27a2642de869" />
+<img width="251" height="164" alt="image" src="https://github.com/user-attachments/assets/b348b366-b9b2-4a6d-b43d-27a2642de869" />
 
 <img width="198" height="119" alt="see-ships" src="https://github.com/user-attachments/assets/e02489ec-b9b4-4158-8e1a-579c428e548c" />
 
