@@ -1,4 +1,4 @@
-# Turn 5 (26-29/10)
+# Turn 5
 --------
 *Diplomatic messages are in communication*
 
