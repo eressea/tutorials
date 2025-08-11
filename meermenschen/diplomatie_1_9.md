@@ -775,10 +775,10 @@ I look forward to your reply,
 
 Love and Respect
 ```
-
+---
+###  Response from Odins Hammer with a map
 ---
 
-###  Response from Odins Hammer with a map
 ```
 Bonjour, chers amis mouillés !
 
@@ -829,10 +829,7 @@ Oui, je crois que c'est une mauvaise stratégie, mais qu'est-ce qu'on va faire ?
 
 Les contacts diplomatiques entre nos deux nations étaient très limités, nous n'arrivons pas à trouver une raison à cette agressivité.
 
----
-
-#### Complément en allemand
-```
+### Complément en allemand
 Das war sehr schwierig, und ich hoffe, es ist zumindest verständlich :-)
 
 Wir übrigen Völker auf der Insel haben uns auf eine gemeinsame Verteidigung geeinigt, sind aber sehr unvorbereitet von den Attacken überrascht worden. Ich werde mich mit meinem Volk darauf konzentrieren, meinen freundlich gesinnten Nachbarn mit den Talenten der Zwerge zu helfen. Meine Heimat ist wahrscheinlich verloren, der Feind steht direkt nebenan, und ich habe den Rückzug nach Westen angeordnet. Wenn ich einen Zwerg von der Insel fort schicken könnte, und mein Überleben auch im Fall einer totalen militärischen Niederlage sichern könnte, wäre ich sehr dankbar. Ist euer Schiff noch in der Nähe von **Gogan Ror**, oder seid ihr nach Norden weiter gesegelt, wo der Dämon lebt?
@@ -842,14 +839,15 @@ Eine Karte, soweit uns bekannt, liegt bei.
 **Odin, König ohne Berg**
 ```
 
-
-### Message 2 - Réponse aux Odins Hammer
 ---
 
+### Message 2 - Réponse aux Odins Hammer
+
+---
 
 #### Version française
 
----
+```
 Salutations Peuple du marteau d'Odin, roi sous la montagne !
 
 *(Votre français est très compréhensible, merci !)*
@@ -861,10 +859,10 @@ Savez-vous si le glacier est gardé par une tribu ?
 Je peux être sur **Gogan Ror** en 2 tours mais cela me paraît plus risqué.
 
 **Amitié et respect !**
----
+```
 
 #### Version anglaise
-
+```
 Greetings People of Odin's hammer, king under the mountain!
 
 *(Your French is very understandable, thank you!)*
@@ -876,19 +874,18 @@ Do you know if the glacier is guarded by a tribe?
 I can be on **Gogan Ror** in 2 weeks but it seems riskier.
 
 **Friendship and respect!**
+```
+
+
 
 ---
 
 ### Message 3 - Premier contact avec les Apostel Belars
 
-**De :** Baldo, Capitaine du P'tit Punch (Baba O Rum)  
-**À :** Apostel Belars  
-**Objet :** Premiers contacts diplomatiques et exploration
-
 ---
 
 #### Version française
-
+```
 Salutations, Ô Serviteurs de Belar !
 
 Nous sommes le peuple des **Baba O Rum**, qui sont de grands navigateurs, explorateurs et cartographes.
@@ -904,11 +901,11 @@ Auriez-vous besoin de nos services pour diffuser son message ?
 
 **Avec notre respect et amitié**  
 *Baldo, capitaine du P'tit Punch*
-
----
+```
 
 #### Version allemande
 
+```
 Seid gegrüßt, o Diener von Belar!
 
 Wir sind das Volk der **Baba O Rum**, die große Seefahrer, Entdecker und Kartographen sind.
@@ -924,5 +921,6 @@ Brauchen Sie unsere Dienste, um seine Botschaft zu verbreiten?
 
 **Mit Respekt und Freundschaft**  
 *Baldo, Kapitän der P'tit Punch*
+```
 
 ---
