@@ -15,5 +15,6 @@ Everyone who can brings back money, the boat explores, we start building the sec
 
 The mages will all cast a spell to earn money.  
 ATTENTION: Make sure to get into the habit of setting the spell level. Otherwise it's a cast at the mage's level.  
+**CAST LEVEL 1 "Cattle Healing"**
 Some will tell you to be cautious. That's wise, but we don't yet have the means to be.  
 The fumble risk is 20% for each mage.
