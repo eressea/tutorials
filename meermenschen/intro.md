@@ -34,7 +34,7 @@ The Draig school offers a combat spell from level 2.
 
 Read the spells of the different schools carefully and make your choice, but Gwyrrd is a choice you'll never regret as an Aquarian.
 
-Here I will present the development of an Aquarian faction focused on exploration, trade, diplomacy, and intelligence.
+Here I will present the development of an Aquarian faction focused on exploration, trade, communication and intelligence.
 
 The idea will be to quickly create an economy through entertainment, train mages who will also contribute to the economy but also to defense, and send the maximum number of boats toward the unknown.
 
@@ -43,5 +43,6 @@ This is a very risky starting gamble as it will depend on your neighbors and the
 But at least it will allow you to have fun and meet many players!
 
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of navigation.
+
 
 
