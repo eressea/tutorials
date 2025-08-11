@@ -2,7 +2,7 @@
 
 ## Location Discovery:
 Starting on a wooded plain, surrounded by 2 swamps and the ocean.  
-Resources: 500 wood, 100 shrubs, 51 horses, 4004 peasants.  
+Resources: 500 wood, 100 saplings, 51 horses, 4004 peasants.  
 General starting allocation: 2500 silvers, 4 stones, 10 wood.  
 Aquarian starting allocation: 1 boat, 1 captain.  
 Classic start, but with lots of horses (that's very good).  
