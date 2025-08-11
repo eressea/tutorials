@@ -12,7 +12,7 @@ A combat-oriented Aquarian from the start will pose problems even to these races
 Why? 
 To make weapons you need to be at least level 2. That means between 2 and 4 turns for the Aquarian (1 turn for combat races). Need to train several Aquarians to produce more than one weapon per turn (1 weapon/turn is useless).
 The Aquarian has a penalty in mining (-2), so it has no choice at the beginning but to use wood, wood that is also essential for ships.
-So, either the Aquarian puts all its energy into making fighters (first a front line of spearmen and cavalry to protect the mages then a second line), or it sails and creates an economy.
+So, either the Aquarian puts all its energy into making fighters (first a front line of spearmen and cavalry to protect the mages then a second line), or it sails and creates a strong economy.
 Its special ability in sailing won't really be used if it opts for survival through weapons, so you might as well play a human who has fewer penalties.
 If you choose to do cartography then there's not a stick of wood to put into weapons, at least at the start.
 
@@ -28,3 +28,4 @@ This is a very risky starting bet as it will depend on your neighbors and their 
 But at least it will allow you to have fun and meet many players!
 
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of sailing.
+
