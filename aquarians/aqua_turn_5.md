@@ -1,15 +1,19 @@
 ---
 title: "Aquarians: Runde 5"
-date: 2024-04-14
+date: 2023-10-26
 ---
 # Turn 5
 --------
 
-No visits from potential neighbors.  
-**Discovery of close neighbors!**  
-**Meeting with a tribe from the new island!**  
 
-![Map turn 5](./map5.png "Map turn 5")
+**Found close neighbors!**  
+**Encountered a tribe from the new island!**  
+Second boat sent
+First messages sent and received
+
+![Map turn 5](./map5.png "Map turn 5")  
+
+No visits from potential neighbors.  
 
 *Diplomatic messages are in communication*
 

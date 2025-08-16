@@ -1,6 +1,6 @@
 ---
 title: "Aquarians: Exchanges turns 5 to 9"
-date: 2024-04-15
+date: 2023-10-27
 ---
 
 # DIPLOMACY LOG
@@ -275,6 +275,9 @@ Zimrida, Pferdemensch und Großer Landvermesser
 **No response but 2 days later I received a threat message!**
 
 ---
+The whole turn is devoted to attempting to resolve the crisis with the eastern islanders.
+Trolle and Ling.
+---
 
 **From Halbe Linge, copied to Trolle, einige Steine tragend and Schnurrender Haufen Glück:**
 ```
@@ -306,14 +309,14 @@ Ling
 Bonjour Ling,
 
 Nous sommes désolé de ne pas avoir répondu à votre message plus tôt
-mes les messagers sont rares actuellement.
+mais les messagers sont rares actuellement.
 
 Nous ne nous cachons pas de vous. Notre cavalier, Zimrida (hha6),
 n'est pas déguisé et ne se cache nullement. Nous n'avons pas d'autres
 ressortissants ailleurs en votre présence.
 
 Je pensais que votre proposition de dons de produits de luxe était une
-inviation à venir dans votre belle region et j'ai donc dompté quelques
+invitation à venir dans votre belle region et j'ai donc dompté quelques
 chevaux pour y répondre et me mettre à votre disposition.
 
 Il convient donc à votre guise de définir nos possibles relations futures.
@@ -449,7 +452,11 @@ Ling
 ---
 
 ## TURN 9
-
+---
+Through the following messages I try to work things out and strengthen relations with the WTC.
+Theodor, Cat tribe and Ling.
+On the other island, I met a dwarf, Odins Hammer, and a demon, Apostel Belars.
+---
 ### My Response to Ling
 
 **French:**
@@ -624,8 +631,9 @@ Zimrida, Pferdemensch und Großer Landvermesser
 ```
 
 ---
+### Odins Hammer
 
-### Encounter with Dwarf Tribe - Northern Island, Odins Hammer
+#### Encounter with Dwarf Tribe - Northern Island, Odins Hammer
 
 **Our Message:**
 
@@ -888,8 +896,9 @@ I can be on **Gogan Ror** in 2 weeks but it seems riskier.
 
 
 ---
+### Apostel Belars
 
-### Message 3 - Premier contact avec les Apostel Belars
+#### Message 3 - Premier contact avec les Apostel Belars
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: "Aquarians: Runde 3"
-date: 2024-03-31
+date: 2023-10-20
 ---
 
 # Turn 3
+
+0ne mage reached level 2!  
+Started building a second ship  
 
 ![Map turn 3](./map3.png "Map turn 3")
 

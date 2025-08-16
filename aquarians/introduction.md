@@ -1,6 +1,6 @@
 ---
 title: "Aquarians: Introduction"
-date: 2024-03-10
+date: 2023-10-01
 ---
 
 # Aquarian Tutorial - Introduction
@@ -34,7 +34,7 @@ They must not give away their maps and their contacts - it's their currency of s
 
 Magic is powerful in the world of Eressea.
 
-They have no penalty in magic, and the choice of their school is important. It will determine their ability to defend themselves quickly or their usefulness in an alliance long-term.
+Aquarians have no penalty in magic, and the choice of their school is important. It will determine their ability to defend themselves quickly or their usefulness in an alliance long-term.
 
 The Gwyrrd school gives navigation advantages from level 4 and provides combat spells at level 3 (between 3 and 9 turns of Learn).
 
