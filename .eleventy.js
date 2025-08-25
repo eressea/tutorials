@@ -1,4 +1,5 @@
 const moment = require('moment');
+const crs = require('./crs/crs.js');
 
 moment.locale('en');
 
@@ -11,9 +12,12 @@ module.exports = function (eleventyConfig) {
 
   // https://github.com/victornpb/eleventy-plugin-page-assets
   eleventyConfig.addPlugin(pageAssetsPlugin, {
-      mode: "parse",
-	  assetsMatching: "*.png|*.PNG|*.jpg|*.JPG|*.gif|*.GIF",
-      postsMatching: "**/*.md",
+    mode: "directory",
+    assetsMatching: "*.png|*.PNG|*.jpg|*.JPG|*.gif|*.GIF|*.cr|*.nr|*.txt",
+    postsMatching: "**/*.md",
+    hashAssets: false,
+    recursive: true,
+    silent: true,
   });
 
   eleventyConfig.addFilter('dateIso', date => {
@@ -28,6 +32,12 @@ module.exports = function (eleventyConfig) {
 
   // Folders to copy to output folder
   eleventyConfig.addPassthroughCopy("css");
+
+  crs(eleventyConfig);
+
+  // all reports go here
+  eleventyConfig.addPassthroughCopy("reports");
+
 };
 
 module.exports.config = {
